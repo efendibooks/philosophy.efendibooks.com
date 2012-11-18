@@ -16,7 +16,7 @@ Causal determinism is stating that we can explain every action from the previous
 
 Let's look at some arguments in favour of causal determinism:
 
-#### Physics
+#### Physically causal determinism
 
 This argument comes from the physics idea of _conservation of energy_. According to the _conservation of energy_ hypothesis, energy cannot be created or destroyed, only transfered from thing to thing. This means that, in the physical world, any movement of any thing can be explained and accounted for by pre-determined physical conditions.
 
@@ -24,11 +24,33 @@ For philosophers, this means we can explain a human's decision through the prece
 
 Physicists justify this by stating: **if an act of free will, which is a mental, non-physical decision, caused an act of the body, which is a physical thing bound by physical law, the physical energy of the world would increase.** This contradicts the conservation of energy hypothesis, which states that energy cannot be created. Since an abstract thought can't have physical energy, we can't transfer it, and therefore, an _act of will_ can't cause an _act of the body_.
 
-#### Biology
+#### Biologically causal determinism
 
 There's an argument from biology, to. This is closest to the idea of **nature/nurture**: we are born with certain aspects of ourselves defined from our genetics, hereditarily, and the others from our environment.
 
 This argument states that any create is a mixture of **capacities**[^2] and **reactions to stimuli**. The capacities it gets from heredity... we inheret certain aspects of ourselves. The reactions to stimuli come from the environment in which we reside. Our decisions are therefore determined by two factors: **our abilities to do something** and **our reactions to the world around us**.
+
+#### The Law of Causation
+
+This one's funny. Causation, as we've been talking about, is the simple idea of cause and effect. Nobody can deny this: **every effect has a cause and every action has a reaction**. Philosophers can therefore use this law as an argument for causal determinism.
+
+Effects have causes. The effect is like the cause; it is, in fact, the cause transformed. Much like how a bolt of lightening is the _transformation_ of the preceeding electricity in the cloud, the physical effect of a human's action is the transformation of the preceeding physical cause. So, therefore, a man's will doesn't count for anything.
+
+#### Sociologically causal determinism
+
+One interesting interpretation of determinism is from sociology. Sociology is the study of the structure of human society, and their argument takes the question of determinism and free-will out from the individual and instead puts it in the **context of society as a whole**.
+
+This argument states that we're predetermined because of our position and experience in society. The members of a crowd aren't freely deciding, they're following the leader. The leader isn't freely deciding, he's following some idea in his mind. So, a person's decisions are traceable to **the deeds of others and his individual ideas**, and that _these_ are the driving forces behind determinism.
+
+This argument becomes _really_ interesting when you look at statistics, and in particular, how an action that would be considered to be free will is actually predictable when in the context of society as a whole.
+
+An example: a man decides to get married. He loves his significant other very much and wants to spend the rest of his life with them. This is totally his action, right? He decides to out of his own free will and accord.
+
+BUT... many others do the same. **And statisticians can highly accurately predict, in advance, the number of marriages that are going to take place on a year-by-year basis**. Was it not pre-determined then, in this society, that that certain number of marriages would occur?
+
+If these figures are predictable, then, surely they can't be acts of free will? Viewed in the large, at the level of society rather than the individual, acts of free will appear to be governed by general laws, and are thus determined in some way.
+
+* * *
 
 [^1]: Causal rhymes with 'morsal'. Sort of. Causal, because it's about _causes_. Not casual, like, casually chilling on the sofa. Got it?
 [^2]: A **capacity** is the ability or power to do, experience or understand something. In this context it's talking about our abilities, talents and the physical world governing us.
