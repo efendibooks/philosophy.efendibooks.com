@@ -53,4 +53,5 @@ If these figures are predictable, then, surely they can't be acts of free will? 
 * * *
 
 [^1]: Causal rhymes with 'morsal'. Sort of. Causal, because it's about _causes_. Not casual, like, casually chilling on the sofa. Got it?
+
 [^2]: A **capacity** is the ability or power to do, experience or understand something. In this context it's talking about our abilities, talents and the physical world governing us.
