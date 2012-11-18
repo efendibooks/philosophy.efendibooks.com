@@ -1,6 +1,6 @@
 # Determinism
 
-Determinism is a philisophy that states **for everything that happens there are conditions, and, given those exact conditions, nothing else could have happened.** There are different versions of determinism with different approaches and different definitions of 'conditions', but, on the whole, they are all similarly agreed: **an event that occurs is the result of pre-existing conditions**.
+Determinism is a philisophy (as well as a set of arguments) that states **for everything that happens there are conditions, and, given those exact conditions, nothing else could have happened.** There are different versions of determinism with different approaches and different definitions of 'conditions', but, on the whole, they are all similarly agreed: **an event that occurs is the result of pre-existing conditions**.
 
 Ultimately, the purpose of discussing determinism is to figure out if human beings are accountable for their actions or not... if they've got free will and if they're able to control their own movements and decisions. It's a little more complex than that, but we'll get onto that later.
 
@@ -11,6 +11,8 @@ Causal determinism[^1] - not _casual_ determinism! - is the basic idea of cause 
 This makes a lot of sense. If I am hungry, it's probably because it's 4:30 in the afternoon on a Sunday and I've not eaten yet. The state of me being hungry is _determined_ because of my previous state of not eating.
 
 Causal determinism is stating that we can explain every action from the previous state the world was in; that every movement and decision made by a person is the result of what state they were in before. Make sense?
+
+A good way of thinking about some of the following arguments is the **Supercomputer Theory by Pierre-Simon Laplace**. It is the idea that every action in the world is the consequence of a supercomputer that contains every piece of information about every atom in the universe. Simply plug in the conditions and cause of an action and the computer returns a unique effect.
 
 ### Arguments For
 
@@ -48,7 +50,17 @@ An example: a man decides to get married. He loves his significant other very mu
 
 BUT... many others do the same. **And statisticians can highly accurately predict, in advance, the number of marriages that are going to take place on a year-by-year basis**. Was it not pre-determined then, in this society, that that certain number of marriages would occur?
 
-If these figures are predictable, then, surely they can't be acts of free will? Viewed in the large, at the level of society rather than the individual, acts of free will appear to be governed by general laws, and are thus determined in some way.
+If these figures are predictable, then, surely they can't be acts of free will? Viewed at a high level, at the level of society rather than the level of the individual, acts of free will appear to be governed by general laws, and are thus determined in some way.
+
+#### Ethical Argument
+
+Many people view the idea of freedom as an interest of ethics: a man's duty, obligation, conscience, reward and blame. There is also an argument from the ethical camp for determinism.
+
+The argument is: a man's character determines his acts, and he is responsible for the act he just committed. He committed it because he is the way he is, and **being the man he is could not have done otherwise**.
+
+If his act were one of free will, he wouldn't be dependable. **Because he is bound by his character**, he _is_ dependable. If his acts are good, he is praised; if his acts are bad, he is pitied. **He is rewarded when doing good in order to keep his character stable, and he is punished when doing bad to help him do good next time.**
+
+It's certainly less concrete than the others, but is an interesting argument nonetheless.
 
 * * *
 
