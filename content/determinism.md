@@ -62,6 +62,20 @@ If his act were one of free will, he wouldn't be dependable. **Because he is bou
 
 It's certainly less concrete than the others, but is an interesting argument nonetheless.
 
+### Arguments Against
+
+Now for some arguments against causal determinism.
+
+#### Determinism is bad science
+
+One frequently cited argument against determinism is that it is bad science. While the arguments above from physics and biology make sense, **they don't apply at a quantum level**.
+
+From what little we know about quantum mechanics, we do know that the behaviour of certain sub-atomic particles **is impossible to predict.** A clever bloke called **Werner Heisenberg** discovered that it is impossible to accurately measure the momentum and position of an electron. This means that particles at a quantum level **really do behave without a cause**. Surely the existence of an unpredictable element disproves any argument for determinism? If the world really is determined, then these elements should be determinable.
+
+A counter-argument to this would be that **this doesn't disprove determinism, it just makes the world impossible to predict.** Our scientific ability right now to observe and measure particles at a sub-atomic level is clearly not sophisticated enough just yet to truly understand what's going on with Quantum Indeterminancy... but that doesn't refute the argument of determinism in of itself.
+
+An even better counter-argument is that, scientifically, the movement of an atom is the result of **external forces**. In other words, the sub-atomic level is **irrelevant for the movement of the atom as a whole**, and, since external forces _are_ things we can measure and predict, the world could still be determined.
+
 * * *
 
 [^1]: Causal rhymes with 'morsal'. Sort of. Causal, because it's about _causes_. Not casual, like, casually chilling on the sofa. Got it?
